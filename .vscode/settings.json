@@ -1,7 +1,4 @@
 {
-<<<<<<< HEAD
-    "python.pythonPath": "C:\\Python36\\python.exe"
-=======
-    "python.pythonPath": "C:\\Users\\ghelich\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe"
->>>>>>> f51c3f8142bc6de15628dd4aba17af5f05d8624d
+    "python.pythonPath": "C:\\Python36\\python.exe",
+    "python.linting.pylintEnabled": false
 }
