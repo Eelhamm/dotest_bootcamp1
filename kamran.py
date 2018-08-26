@@ -1,1 +1,1 @@
-""" this file for kamran """
+a = input("insert: ")
