@@ -1,2 +1,1 @@
-<<<<<<< HEAD
 print("only razaghi")
