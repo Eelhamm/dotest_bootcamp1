@@ -1,1 +1,2 @@
-a = input("insert: ")
+while True:
+    print("reza")
