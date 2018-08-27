@@ -1,1 +1,1 @@
-a = input("insert: ")
+print("helloooooooooooooooooooooooo woooooooooooooooooooooooooooorld!")
