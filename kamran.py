@@ -9,3 +9,4 @@ class prime:
         return flag
 
 Prime = prime()
+print("gooooooooood")
